@@ -7,14 +7,14 @@ Oct 2022 - written by Luisa Lucchese
 Please cite our papers:
 
 - Paper #1
-- 
+
 Lucchese et al. 2021
 
 Investigation of the influence of nonoccurrence sampling on landslide
  susceptibility assessment using Artificial Neural Networks
 
 - Paper #2
-- 
+
  Lucchese et al. 2020
 
  Attribute selection using correlations and principal components for
@@ -22,7 +22,7 @@ Investigation of the influence of nonoccurrence sampling on landslide
  susceptibility assessment
 
 - Paper #3
-- 
+
  Lucchese et al.
 
  Landslide susceptibility and spatially distributed antecedent rainfall 
