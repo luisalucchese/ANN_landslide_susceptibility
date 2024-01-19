@@ -29,5 +29,6 @@ Investigation of the influence of nonoccurrence sampling on landslide
  thresholds: a multiple-output Artificial Neural Network modeling approach
 
 
-The licence that applies for this code is 
+The license that applies for this code is 
+
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
